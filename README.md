@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Icaro Nunes, a software engineer and competitive programmer.
+
 <!--
 **Icaro-Nunes/Icaro-Nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
